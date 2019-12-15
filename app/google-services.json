@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "291091282389-qear6bdafrgvfgrtilvgo9mg7duj4a8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ferreira.calculadoraflex",
+            "certificate_hash": "19a28a40757f86df55c5344d8ad370be9fa93cfc"
+          }
+        },
+        {
           "client_id": "291091282389-2tp6dco22m9acpv7op08tlc2u0nd8i4i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
